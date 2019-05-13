@@ -9,4 +9,4 @@ pre = "<b>7. </b>"
 ---
 현재 워크스페이스에 속한 구성원들 정보(이름, 아이디, 마지막 접속일, 설명)를 보여준다.
 
-![]({{< param imageRootDir >}}/assets/KR/{{< param version >}}/8_1.png)
+![]({{< param imageRootDir >}}/assets/KR/7_1.png)
